@@ -1,0 +1,7 @@
+1. Pour créer une unité d'organisation il faut :
+ - clique droit sur le serveur active directory et selectionner *"active directory users and computer"*
+ - clique droit sur wilders.lan, nouveau et choisir *Organizationnal unit*
+ - il faut ensuite la nommer Wilders_students
+
+2. Pour créer un groupe d'utilisateurs il faut clique droit sur l'unité d'organisation et aller sur nouveau et cliquer sur groupe. Nommer le groupe Students
+3. Pour créer un utilisateurs, il suffit de cliquer sur l'icone représentant un petit bonhomme sur la barre en haut. Rentrer le nom, le prenom et le nom de compte.
